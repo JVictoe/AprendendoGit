@@ -65,5 +65,9 @@ vamos aprender git
 git tag -a v1.0 -m "Versão 1 após alterações de tradução"  cria uma tag e coloca uma mensagem nela
 git push origin v1.0 envia a tag pro servidor
 
+git tag -d v1.0 apaga uma tag localmente
+
+git push --delete origin v1.0 apaga a tag do servidor
+
 
 
