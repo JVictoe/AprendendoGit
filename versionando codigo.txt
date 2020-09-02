@@ -56,3 +56,6 @@ a task 2 possui tudo da task1, agora é só enviar a task2 pro servidor novament
 
 git merge master - pega as alterações de outra branch e mergeia na branch em que você está
 
+rs
+
+
