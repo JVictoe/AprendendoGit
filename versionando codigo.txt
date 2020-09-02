@@ -35,4 +35,8 @@ $ git branch
 
 git push -u origin develop - envia a branch pro servidor após criar a branch
 
+git branch -d TASK-1 - apaga uma branch local
+
+git push --delete origin TASK-1 - apaga uma branch do servidor
+
 
