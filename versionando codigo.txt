@@ -63,6 +63,7 @@ rs
 vamos aprender git
 
 git tag -a v1.0 -m "Versão 1 após alterações de tradução"  cria uma tag e coloca uma mensagem nela
+git push origin v1.0 envia a tag pro servidor
 
 
 
