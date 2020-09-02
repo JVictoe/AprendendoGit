@@ -9,3 +9,27 @@ git push paar enviar os comits ao servidor
 git diff para poder ver as alterações de arquivos
 
 git pull baixa as ultimas versões
+
+$ git branch develop - cria uma branch chamada develop
+
+$ git branch - mostra as branch
+  develop
+* master
+
+$ git checkout develop - troca para a branch develop
+Switched to branch 'develop'
+
+
+$ git checkout master - troca pra branch master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+$ git checkout -b TASK-1 - cria uma branch chamada TASK-1 e entra nela
+Switched to a new branch 'TASK-1'
+
+
+$ git branch
+* TASK-1
+  develop
+  master
+
