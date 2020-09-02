@@ -69,5 +69,7 @@ git tag -d v1.0 apaga uma tag localmente
 
 git push --delete origin v1.0 apaga a tag do servidor
 
+git reset --hard HEAD~1 volta um commit atrás
+
 
 
