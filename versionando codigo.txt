@@ -33,3 +33,6 @@ $ git branch
   develop
   master
 
+git push -u origin develop - envia a branch pro servidor após criar a branch
+
+
