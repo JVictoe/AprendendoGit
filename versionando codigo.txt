@@ -1,0 +1,11 @@
+git status para ver qual o estado dos arquivos
+
+git add para add os arquivos ai storage
+
+git commit -m "string" para comitar os arquivos
+
+git push paar enviar os comits ao servidor
+
+git diff para poder ver as alterações de arquivos
+
+git pull baixa as ultimas versões
