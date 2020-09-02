@@ -58,4 +58,6 @@ git merge master - pega as alterações de outra branch e mergeia na branch em q
 
 rs
 
+vamos aprender git
+
 
