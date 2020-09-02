@@ -39,4 +39,20 @@ git branch -d TASK-1 - apaga uma branch local
 
 git push --delete origin TASK-1 - apaga uma branch do servidor
 
+git branch -m task-1rs renomeia uma branch estando nela
+
+git branch -m task-1rs task1 renomeia uma branch não estando nela
+
+procedimento pra renomear uma branch no servidor :
+git push -u origin task1 envia a branch pro servidor
+
+git pull baixa as ultimas versãos da branch
+
+git branch -m task2 renomeia a branch para outro nome (task2)
+
+git push --delete origin task1 deleta a branch task1 do servidor
+
+a task 2 possui tudo da task1, agora é só enviar a task2 pro servidor novamente e ela ta renomeada (copia)
+
+
 
