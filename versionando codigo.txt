@@ -6,6 +6,8 @@ git commit -m "string" para comitar os arquivos
 
 git push paar enviar os comits ao servidor
 
+git commit -a -m "Mais traduções" faz o git add . e o git commit
+
 git diff para poder ver as alterações de arquivos
 
 git pull baixa as ultimas versões
