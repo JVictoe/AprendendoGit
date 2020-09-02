@@ -71,7 +71,12 @@ git push --delete origin v1.0 apaga a tag do servidor
 
 git reset --hard HEAD~1 volta um commit atrás
 
-caso falta uma mudaçã e já tenha feito um commit, tem a opção de fazer a mudança e jogar ela no commit já existente localmente
+caso falta uma mudaçã e já tenha feito um commit, tem a opção de fazer a mudança e jogar ela no commit já existente localmente :
+
+git commit --amend - digita a alteração press esc press : digita w+q e da enter - pronto, a mudança é adicionada no commit ja existente antes de madnar pro servidor
+
+
+
 
 
 
