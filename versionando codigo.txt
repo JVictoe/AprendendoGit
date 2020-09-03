@@ -74,3 +74,11 @@ git reset --hard HEAD~1 volta um commit atrás
 caso falta uma mudaçã e já tenha feito um commit, tem a opção de fazer a mudança e jogar ela no commit já existente localmente :
 
 git commit --amend - digita a alteração press esc press : digita w+q e da enter - pronto, a mudança é adicionada no commit ja existente antes de madnar pro servidor
+
+git fetch tras atualizações do servidor mas não as aplicas, normalmente é executando dentro do comando git pull
+
+git fetch + git merge = git full
+
+git fetch baixa as atualizaçãos, voce ve as atualizações e se vale a pena da um git merge
+
+git remote -v mostra o link do repositório em que se está
